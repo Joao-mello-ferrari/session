@@ -1,0 +1,1 @@
+{"c":["webpack"],"r":["pages/dashboard"],"m":["./components/Allowed.tsx","./hooks/useAllowed.ts","./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?absolutePagePath=%2FUsers%2Fjoaomello%2FDesktop%2Fsession%2Fpages%2Fdashboard.tsx&page=%2Fdashboard!","./pages/dashboard.tsx","./utils/validateUser.ts"]}
